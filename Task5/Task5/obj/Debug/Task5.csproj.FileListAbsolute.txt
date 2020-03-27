@@ -1,0 +1,6 @@
+/Users/lyftyk/RiderProjects/Task5/Task5/bin/Debug/Task5.exe
+/Users/lyftyk/RiderProjects/Task5/Task5/bin/Debug/Task5.pdb
+/Users/lyftyk/RiderProjects/Task5/Task5/obj/Debug/Task5.csprojAssemblyReference.cache
+/Users/lyftyk/RiderProjects/Task5/Task5/obj/Debug/Task5.csproj.CoreCompileInputs.cache
+/Users/lyftyk/RiderProjects/Task5/Task5/obj/Debug/Task5.exe
+/Users/lyftyk/RiderProjects/Task5/Task5/obj/Debug/Task5.pdb
